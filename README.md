@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Mihiran samarasinhe 👋
 ## My stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Maheeshasamarasinhe&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
