@@ -48,7 +48,15 @@ I am a passionate Computer Engineering student at the **University of Ruhuna** f
 * **Maternal & Medical Chatbots:** RAG-based AI assistants built with **LangChain**, **Pinecone**, and **Gemini LLM**.
 * **Flood Detection:** Implementing image segmentation using **YOLOv8 Segmentation** for environmental monitoring.
 * **Plant Disease Detector:** A CNN-based model integrated with a **Flask** backend and **React** frontend.
-* **MERN Expense Tracker:** A containerized financial tracking application using **Docker**.
+* MERN Expense Tracker (Cloud-Native & Automated): A containerized financial tracking application built with the MERN stack and deployed using a modern DevOps pipeline.
+
+         * Containerization: Architected using Docker and Docker Compose for consistent environment replication.
+
+         * Infrastructure as Code (IaC): Automated cloud resource provisioning on AWS (EC2 & Lightsail) using Terraform.
+
+         * Configuration Management: Leveraged Ansible playbooks for automated server configuration, security hardening, and application deployment.
+
+         * Cloud Infrastructure: Hosted on AWS, ensuring high availability and scalable performance.
 
 ---
 
