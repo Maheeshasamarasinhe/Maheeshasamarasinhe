@@ -43,7 +43,7 @@ I am a passionate Computer Engineering student at the **University of Ruhuna** f
 ### 🌟 Featured Projects
 
 * Hospital Resource Management AI: A Multi-output Hybrid system for disease prediction using LSTM (Time-series) and ANN (Static indicators) with an $R^2$ accuracy of 0.87-0.97.
-* Gym Management System: A comprehensive management platform featuring a robust Spring Boot backend and MERN stack integration.
+* Gym Management System: A comprehensive management platform featuring a robust Spring Boot backend and Reacts frontend integration.
 * **Real-time ANPR System:** Automatic Number Plate Recognition using **YOLOv8**, **EasyOCR**, and **SORT** tracking.
 * **Maternal & Medical Chatbots:** RAG-based AI assistants built with **LangChain**, **Pinecone**, and **Gemini LLM**.
 * **Flood Detection:** Implementing image segmentation using **YOLOv8 Segmentation** for environmental monitoring.
