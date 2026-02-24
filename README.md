@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Maheesha Samarasinhe
+# 👋 Hi, I'm Maheesha Mihiran Samarasinhe
 
 ### Computer Engineering Student | AI & Full-Stack Developer 🚀
 
