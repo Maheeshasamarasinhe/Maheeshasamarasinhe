@@ -71,7 +71,7 @@ I am a passionate Computer Engineering student at the **University of Ruhuna** f
 ### 🏆 Achievements
 
 * **1st Runner-up** | RedCipher 2.0 CTF Cybersecurity Competition.
-* Expertise in **Control Systems** and **PIC Microcontroller Assembly Language**.
+
 
 ---
 
@@ -79,4 +79,4 @@ I am a passionate Computer Engineering student at the **University of Ruhuna** f
 ### 📫 Let's Connect!
 
 * **GitHub:** [Maheeshasamarasinhe](https://github.com/Maheeshasamarasinhe)
-* **Current Focus:** Developing **Personalized Learning Paths** using AI for the EC6301 course.
+
