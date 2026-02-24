@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Maheesha Mihiran Samarasinhe
+# 👋 Hi, I'm Maheesha Samarasinhe
 
 ### Computer Engineering Student | AI & Full-Stack Developer 🚀
 
@@ -49,6 +49,7 @@ I am a passionate Computer Engineering student at the **University of Ruhuna** f
 * **Flood Detection:** Implementing image segmentation using **YOLOv8 Segmentation** for environmental monitoring.
 * **Plant Disease Detector:** A CNN-based model integrated with a **Flask** backend and **React** frontend.
 * MERN Expense Tracker (Cloud-Native & Automated): A containerized financial tracking application built with the MERN stack and deployed using a modern DevOps pipeline.
+* Full-Stack Weather & Marine Intelligence: A comprehensive React.js dashboard that delivers real-time weather, marine, and astronomical data via a robust, network-aware Ballerina backend. It seamlessly     multiple environmental APIs and includes a custom news management system for localized alerts, providing a unified and data-driven user experience.
 
          * Containerization: Architected using Docker and Docker Compose for consistent environment replication.
 
